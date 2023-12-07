@@ -21,3 +21,13 @@ header {
 header .col {
     height: 50px;
 }
+
+/*Jumbotron*/
+.jumbotron {
+    height: 250px;
+    padding: 20px 0;
+}
+
+.jumbotron col {
+    height: 80px
+}

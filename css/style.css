@@ -3,8 +3,8 @@
 }
 
 *[class^='row'] {
-    border: 1px solid red;
-    height: 100%
+    border: 3px solid red;
+
 }
 
 *[class^='col'] {
@@ -39,10 +39,16 @@ header .col {
     height: 200px;
 }
 
+/*About*/
 .about {
     background-color: #1ABC9C;
 }
 
 .about .col {
+    height: 100px;
+}
+
+/*contact*/
+.contact .col {
     height: 100px;
 }

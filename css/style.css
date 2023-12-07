@@ -63,3 +63,14 @@ header .col {
 .info .col {
     height: 80px;
 }
+
+/*footer*/
+footer {
+    background-color: #2C3E50;
+    height: 100px;
+    color: white;
+}
+
+footer .col {
+    height: 60px;
+}

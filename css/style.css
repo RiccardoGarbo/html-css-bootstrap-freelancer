@@ -9,7 +9,7 @@
 }
 
 *[class^='col'] {
-    border: 1px solid rgb(81, 0, 128);
+    border: 1px solid rgb(0, 128, 28);
 }
 
 /*HEADER*/
@@ -20,24 +20,11 @@ header {
 
 }
 
-header .col {
-    height: 60px;
-}
 
 /*Jumbotron*/
 .jumbotron {
     padding: 20px 0;
     background-color: #1ABC9C;
-}
-
-.jumbotron .col {
-    height: 80px
-}
-
-/*portfolio*/
-
-.portfolio .col {
-    height: 200px;
 }
 
 /*About*/
@@ -49,10 +36,6 @@ header .col {
     height: 100px;
 }
 
-/*contact*/
-.contact .col {
-    height: 100px;
-}
 
 /*info*/
 .info {
@@ -60,17 +43,10 @@ header .col {
     color: white
 }
 
-.info .col {
-    height: 80px;
-}
 
 /*footer*/
 footer {
     background-color: #2C3E50;
     height: 100px;
     color: white;
-}
-
-footer .col {
-    height: 60px;
 }

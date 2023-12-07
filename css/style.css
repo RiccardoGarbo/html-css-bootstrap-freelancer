@@ -31,3 +31,9 @@ header .col {
 .jumbotron col {
     height: 80px
 }
+
+/*portfolio*/
+
+.portfolio .col {
+    height: 200px
+}

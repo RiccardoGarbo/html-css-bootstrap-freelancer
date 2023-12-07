@@ -1,0 +1,23 @@
+*[class^='container'] {
+    border: 2px solid black;
+}
+
+*[class^='row'] {
+    border: 1px solid red;
+    height: 100%;
+
+
+}
+
+*[class^='col'] {
+    border: 1px solid green;
+}
+
+/*HEADER*/
+header {
+    height: 80px
+}
+
+header .col {
+    height: 50px;
+}

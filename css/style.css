@@ -4,6 +4,7 @@
 
 *[class^='row'] {
     border: 3px solid red;
+    height: 100%;
 
 }
 
@@ -13,14 +14,14 @@
 
 /*HEADER*/
 header {
-    height: 80px;
+    height: 100px;
     background-color: #2C3E50;
     color: white;
 
 }
 
 header .col {
-    height: 50px;
+    height: 60px;
 }
 
 /*Jumbotron*/
@@ -51,4 +52,14 @@ header .col {
 /*contact*/
 .contact .col {
     height: 100px;
+}
+
+/*info*/
+.info {
+    background-color: #3A546D;
+    color: white
+}
+
+.info .col {
+    height: 80px;
 }

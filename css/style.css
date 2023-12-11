@@ -27,10 +27,16 @@ header {
     background-color: #1ABC9C;
 }
 
-.about .col {
-    height: 100px;
+
+/*Contact*/
+.contact {
+    color: #2C3E50;
 }
 
+.contact .form-control::placeholder {
+    color: black;
+
+}
 
 /*info*/
 .info {

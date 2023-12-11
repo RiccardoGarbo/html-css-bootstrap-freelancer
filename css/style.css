@@ -1,26 +1,27 @@
-*[class^='container'] {
-    border: 2px solid black;
-}
-
-*[class^='row'] {
-    border: 3px solid red;
-    height: 100%;
-
-}
-
-*[class^='col'] {
-    border: 1px solid rgb(0, 128, 28);
-}
-
 /*HEADER*/
 header {
     background-color: #2C3E50;
 }
 
 /*Jumbotron*/
+.junbotron {
+    padding: 20px 0px;
+}
+
+.big-img {
+    width: 250px;
+    height: 250px;
+
+}
+
 .jumbotron {
-    padding: 20px 0;
     background-color: #1ABC9C;
+    padding-bottom: 20px;
+}
+
+.jumbotron h1 {
+    font-size: 2.3rem;
+    display: block;
 }
 
 /*About*/
